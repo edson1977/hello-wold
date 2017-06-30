@@ -1,2 +1,2 @@
 # hello-wold
-meu projeto inicial
+meu projeto inicialSou Edson sou formado recentemente em TI e estou a procura de  conhecimentos.
